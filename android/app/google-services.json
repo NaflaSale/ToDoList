@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087575615788",
+    "project_id": "todolist-app-c9bf6",
+    "storage_bucket": "todolist-app-c9bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087575615788:android:e9106c77739c3f2f21a489",
+        "android_client_info": {
+          "package_name": "at.nafla.to_do_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087575615788-9efdvrqn05sbsjs2afjje3sq17c78r94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaW9DamTQ3LVtnUFQlfMoj7EzE20DPQ9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087575615788-9efdvrqn05sbsjs2afjje3sq17c78r94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
